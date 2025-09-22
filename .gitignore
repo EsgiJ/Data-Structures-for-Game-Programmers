@@ -39,3 +39,22 @@
 
 # debug information files
 *.dwo
+
+# Visual Studio
+.vs/
+*.vcxproj
+*.suo
+*.user
+*.db
+*.opendb
+
+# Build outputs
+bin/
+bin-int/
+*.obj
+*.log
+
+# Premake generated files
+*.make
+*.sln
+*.vcxproj
